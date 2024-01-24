@@ -7,4 +7,4 @@ Tecnologias usadas:
 * HTML;
 * CSS;
 
-<a href="https://jogo-ruby-omega.vercel.app/">Jogo do Número Secreto</a>
+<a href="https://jogo-ruby-omega.vercel.app/">Portfolio</a>
