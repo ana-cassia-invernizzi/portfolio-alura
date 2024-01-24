@@ -7,4 +7,4 @@ Tecnologias usadas:
 * HTML;
 * CSS;
 
-<a href="https://jogo-ruby-omega.vercel.app/">Portfolio</a>
+<a href="https://ana-cassia-invernizzi.github.io/portfolio-alura/">Portfolio</a>
