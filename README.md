@@ -1,7 +1,7 @@
 # Portfolio Alura
 Portfolio desenvolvido durante o programa ONE da Oracle e Alura.
 
-O principal objetivo desse projeto foi criar o meu portfolio, onde posso mostrar meus projetos e contor um pouco sobre mim.
+O principal objetivo desse projeto foi criar o meu portfolio, onde posso mostrar meus projetos e contar um pouco sobre mim.
 
 Tecnologias usadas:
 * HTML;
